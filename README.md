@@ -11,7 +11,7 @@ Antes de baixar o projeto você vai precisar ter instalado na sua máquina as se
 ### Em seguida:
 
 
-## 4) A organização do código; 
+##  A organização do código; 
 <br>
 Para a organização do código, seguimos uma estrutura com arquivo main.py, arquivo README.md e pastas. O arquivo main.py foi utilizado para ser o arquivo principal do código, com todos os elementos e funcionalidades sendo chamados dentro do mesmo.  
 
