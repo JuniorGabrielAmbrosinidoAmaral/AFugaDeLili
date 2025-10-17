@@ -35,7 +35,7 @@ class Menu():
 
         #mensagens
         message_game_title1 = message_screen('A Fuga de', 75, (0,0,0))
-        message_game_title2 = message_screen('Filó', 75, (0,0,0))
+        message_game_title2 = message_screen('Lili', 75, (0,0,0))
 
         #apresenta na tela
         self.screen.blit(message_game_title1, (self.pos_x_game_title1,self.pos_y_game_title1))
